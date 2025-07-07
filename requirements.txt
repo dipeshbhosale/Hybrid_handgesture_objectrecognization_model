@@ -1,0 +1,27 @@
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+joblib
+gradio>=3.50.0
+keyboard
+matplotlib
+seaborn
+psutil
+GPUtil
+pillow
+requests
+
+# Object Detection Dependencies
+ultralytics>=8.0.0
+torch>=1.7.0
+torchvision
+torchaudio
+
+# Web Interface Dependencies
+fastapi
+python-multipart
+
+# Emotion Detection Dependencies
+deepface

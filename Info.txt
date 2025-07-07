@@ -1,0 +1,29 @@
+🧠 Core AI & ML Libraries
+Tool	Use Case	License
+TensorFlow	Deep learning (training/inference)	Apache 2.0
+PyTorch	Deep learning (training/inference)	BSD
+Scikit-learn	Classical ML models (e.g. SVM, RF)	BSD
+NumPy	Array & matrix operations	BSD
+Pandas	Data manipulation	BSD
+
+🖐️ Hand Tracking / Landmark Detection
+Tool	Use Case	License
+MediaPipe	Real-time hand landmark detection	Apache 2.0
+OpenCV	Webcam input, image processing	Apache 2.0
+
+🎮 UI/UX / Deployment
+Tool	Use Case	License
+Streamlit	Interactive web UI (lightweight)	Apache 2.0
+Gradio	Deploy model with webcam/file input	Apache 2.0
+Hugging Face Spaces	Host your app (Gradio/Streamlit)	Free tier
+
+🔊 Text-to-Speech (TTS) - Optional
+Tool	Use Case	License
+pyttsx3	Offline TTS (cross-platform)	Free
+gTTS	Google TTS API (online)	Free (API)
+
+📊 Data Visualization (Optional)
+Tool	Use Case	License
+Matplotlib	Plots and graphs	PSF
+Seaborn	Statistical plots	BSD
+
